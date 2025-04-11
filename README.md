@@ -18,6 +18,7 @@
     <img src="https://github.com/TheDEKKs/TheDEKKs/blob/main/ll.jpg" align="right">
   </div>
    <br> 
+    
       ▹ Programming language: C++, С </br>
       ▹ Place of residence: Saint-Petersburg </br>
       ▹ I work on a decentralized repository </br>
