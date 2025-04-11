@@ -9,8 +9,8 @@
   </pre>
 
   </br>  </br>
-  <div align="center"  width="300px" >
-<div class="tenor-gif-embed" data-postid="25964108" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/images-pc-computer-windows-mac-gif-25964108">Images Pc GIF</a>from <a href="https://tenor.com/search/images-gifs">Images GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <div align="center"  width="300px">
+      <img scr="https://tenor.com/bU6B6.gif">
       <a href="https://thedekk.ru" >
         <img src="https://img.shields.io/badge/My%20Web%20Site-red" alt="LinkedIn Badge"/>
       </a>
