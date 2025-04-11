@@ -1,16 +1,23 @@
-<img src="https://github.com/TheDEKKs/TheDEKKs/blob/main/Untitled(1).png" width="100%" align="center" pading="10px">
+<!---<img src="https://github.com/TheDEKKs/TheDEKKs/blob/main/Untitled(1).png" width="100%" align="center" pading="10px"> --->
 
-  <pre>
-  ▹ Programming language: C++, С </br>
-  ▹ Place of residence: Saint-Petersburg </br>
-  ▹ I work on a decentralized repository </br>
-  ▹ I'am watching: Winderton, George Hotz Archive </br>
-  ▹ I am 14 years old, in life my name is Egor. In 2023-2024 I studied at Polytechnic and studied HTML and CSS.
-  </pre>
+
+  <div align="center">
+    <img src="https://github.com/TheDEKKs/TheDEKKs/blob/main/ll.jpg" align="left" pading="10px">
+    <img src="https://github.com/TheDEKKs/TheDEKKs/blob/main/ll.jpg" align="right">
+    <pre>
+      ▹ Programming language: C++, С </br>
+      ▹ Place of residence: Saint-Petersburg </br>
+      ▹ I work on a decentralized repository </br>
+      ▹ I'am watching: Winderton, George Hotz Archive </br>
+      ▹ I am 14 years old, in life my name is Egor.
+    </pre>
+     
+      
+
+  </div>
 
   </br>  </br>
   <div align="center"  width="300px">
-      <img scr="https://tenor.com/bU6B6.gif">
       <a href="https://thedekk.ru" >
         <img src="https://img.shields.io/badge/My%20Web%20Site-red" alt="LinkedIn Badge"/>
       </a>
