@@ -2,11 +2,11 @@
 
 
   <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3500&color=blue&center=true&vCenter=true&width=600&lines=Hellow...;" alt="Typing SVG"/>
     <h1>
       <img src="https://github.com/TheDEKKs/TheDEKKs/blob/main/ll.jpg" align="left">
       <img src="https://github.com/TheDEKKs/TheDEKKs/blob/main/ll.jpg" align="right">
     </h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3500&color=blue&center=true&vCenter=true&width=600&lines=Hellow...;" alt="Typing SVG"/>
   </div>
    <br> 
     <pre>
