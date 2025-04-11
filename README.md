@@ -2,8 +2,6 @@
 
 
   <div align="center">
-    <img src="https://github.com/TheDEKKs/TheDEKKs/blob/main/ll.jpg" align="left" pading="10px">
-    <img src="https://github.com/TheDEKKs/TheDEKKs/blob/main/ll.jpg" align="right">
     <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3500&color=blue&center=true&vCenter=true&width=600&lines=Hellow...;" alt="Typing SVG"/>
       <div align="center"  width="300px">
       <a href="https://t.me/thedekk">
@@ -16,7 +14,8 @@
       <a href="https://thedekk.ru" >
         <img src="https://img.shields.io/badge/My%20Web%20Site-red?style=for-the-badge" alt="LinkedIn Badge"/>
       </a>
-       
+    <img src="https://github.com/TheDEKKs/TheDEKKs/blob/main/ll.jpg" align="left" pading="10px">
+    <img src="https://github.com/TheDEKKs/TheDEKKs/blob/main/ll.jpg" align="right">
   </div>
    <br> 
       ▹ Programming language: C++, С </br>
