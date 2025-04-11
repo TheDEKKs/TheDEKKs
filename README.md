@@ -5,7 +5,7 @@
   ▹ Place of residence: Saint-Petersburg </br>
   ▹ I work on a decentralized repository </br>
   ▹ I'am watching: Winderton, George Hotz Archive </br>
-  ▹ I am 14 years old, in life my name is Egor. </br>   In 2023-2024 I studied at Polytechnic and studied HTML and CSS.
+  ▹ I am 14 years old, in life my name is Egor. In 2023-2024 I studied at Polytechnic and studied HTML and CSS.
   </pre>
 
   </br>  </br>
