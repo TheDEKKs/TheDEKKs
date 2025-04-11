@@ -22,7 +22,9 @@
 
   </div>
 
-  </br>  </br>
+  <hr width="" size="1">
+  
+  </br>
         <div align="center"  width="300px">
       <a href="https://t.me/thedekk">
         <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white " alt=""/>
