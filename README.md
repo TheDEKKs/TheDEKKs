@@ -3,9 +3,8 @@
 
   <div align="center">
     <!---<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3500&color=blue&center=true&vCenter=true&width=600&lines=Hellow...;" alt="Typing SVG"/> --->
-    <h1>
-      <img src="https://github.com/TheDEKKs/TheDEKKs/blob/main/Walaper.jpg" align="right" width="250px" height="500px">
-    </h1>
+      <img src="https://github.com/TheDEKKs/TheDEKKs/blob/main/Walaper.jpg" align="right" width="235px" height="500px">
+
 
   </div>
    <br> 
