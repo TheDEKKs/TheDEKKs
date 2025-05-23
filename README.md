@@ -11,7 +11,6 @@
     <pre>
       ▹ Programming language: C++, С </br>
       ▹ Place of residence: Saint-Petersburg </br>
-      ▹ I work on a decentralized repository </br>
       ▹ I'am watching: Winderton, George Hotz Archive </br>
       ▹ I am 14 years old, in life my name is Egor.
    </pre>
