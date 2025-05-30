@@ -1,10 +1,11 @@
 <!---<img src="https://github.com/TheDEKKs/TheDEKKs/blob/main/Untitled(1).png" width="100%" align="center" pading="10px"> --->
 
-
   <div align="center">
     <!---<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3500&color=blue&center=true&vCenter=true&width=600&lines=Hellow...;" alt="Typing SVG"/> --->
       <img src="https://github.com/TheDEKKs/TheDEKKs/blob/main/Walaper.jpg" align="right" width="125px" height="300px">
 
+
+[![wakatime](https://wakatime.com/badge/user/5e02f54d-94af-46f3-a69a-c353866b991e.svg)](https://wakatime.com/badge/user/@5e02f54d-94af-46f3-a69a-c353866b991e)
 
   </div>
    <br> 
@@ -33,6 +34,7 @@
       <a href="https://thedekk.ru" >
         <img src="https://img.shields.io/badge/My%20Web%20Site-red?style=for-the-badge" alt="LinkedIn Badge"/>
       </a>
+
 
 <div>
 
