@@ -1,4 +1,4 @@
-<!---<img src="https://github.com/TheDEKKs/TheDEKKs/blob/main/Untitled(1).png" width="100%" align="center" pading="10px"> --->
+<!---<img src="https://github.com/TheDEKKs/TheDEKKs/blob/main/Untitled(1).png" width="100%" align="center" pading="10px">  --->
 <!------ тексте ---->
   <div align="center">
     <!---<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3500&color=blue&center=true&vCenter=true&width=600&lines=Hellow...;" alt="Typing SVG"/> --->
