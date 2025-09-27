@@ -10,7 +10,7 @@
   </div>
    <br> 
     <pre>
-      ▹ Programming language: C++</br>
+      ▹ Programming language: C++, Go</br>
       ▹ Place of residence: Saint-Petersburg </br>
       ▹ I'am watching: Winderton, George Hotz Archive </br>
       ▹ I am 14 years old, in life my name is Egor.
