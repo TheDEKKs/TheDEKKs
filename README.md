@@ -11,9 +11,12 @@
    <br> 
     <pre>
       ▹ Programming language: C++, Go</br>
+      ▹ Library: gin, GORM, JWT, goose</br>
+      ▹ BD: PostgresSQL, Redis</br>
+      ▹ OS: Linux</br>
       ▹ Place of residence: Saint-Petersburg </br>
       ▹ I'am watching: Winderton, George Hotz Archive </br>
-      ▹ I am 14 years old, in life my name is Egor.
+      ▹ I am 15 years old, in life my name is Egor.
    </pre>
      
       
